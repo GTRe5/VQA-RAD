@@ -1,0 +1,8 @@
+gradio
+transformers
+bitsandbytes
+accelerate
+pillow
+sentencepiece
+rouge-score
+torch
