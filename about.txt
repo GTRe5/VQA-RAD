@@ -1,0 +1,6 @@
+github:
+https://github.com/GTRe5/VQA-RAD
+model:
+https://huggingface.co/Salesforce/blip2-opt-2.7b
+demo:
+https://drive.google.com/drive/u/0/folders/1lm2XLn29rG7tx7yaezvdb6v2gx9-tBT2
