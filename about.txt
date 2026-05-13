@@ -1,5 +1,5 @@
 github:
-https://github.com/GTRe5/RadSight
+https://github.com/GTRe5/Hagrid-Gesture-Recognition
 model:
 https://huggingface.co/timm/efficientnet_b0.ra_in1k
 demo:
