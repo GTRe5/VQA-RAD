@@ -231,5 +231,5 @@ Core dependencies: `torch`, `torchvision`, `timm`, `datasets`, `huggingface_hub`
 
 ## License
 
-This project is released under the [MIT License](LICENSE).  
+This project is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE).  
 The HaGRID dataset is subject to its own license — see the [original repository](https://github.com/hukenovs/hagrid) for details.
