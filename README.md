@@ -131,6 +131,17 @@ hagrid_outputs/
         classification_report.json
 ```
 
+## Results
+
+### Inference Demo
+
+Sample predictions on the test set — **green** = correct, **red** = wrong.
+
+![Inference Demo](./hagrid_outputs/plots/inference_demo.png)
+
+> Most misclassifications occur on visually similar gestures (e.g. `palm` → `ok`, `two_up` → `fist`),
+> which is expected given their overlapping hand shapes.
+
 ---
 
 ### Step 3 — Live Demo
@@ -231,5 +242,5 @@ Core dependencies: `torch`, `torchvision`, `timm`, `datasets`, `huggingface_hub`
 
 ## License
 
-This project is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE).  
+This project is released under the [MIT License](LICENSE).  
 The HaGRID dataset is subject to its own license — see the [original repository](https://github.com/hukenovs/hagrid) for details.
