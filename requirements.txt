@@ -1,34 +1,27 @@
-# Medical VQA — Python 3.12.3
-# Install: pip install -r requirements.txt
-#
-# For GPU (CUDA 12.1):
-#   pip install torch --index-url https://download.pytorch.org/whl/cu121
-# For CPU only:
-#   pip install torch
+# Core scientific stack
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+tqdm
 
-# ── Core inference ────────────────────────────────────────────
-torch>=2.3.0
-transformers>=4.41.0
-accelerate>=0.30.0
-bitsandbytes>=0.43.0          # 8-bit quantisation (Linux/GPU only)
-sentencepiece>=0.2.0          # tokeniser for BLIP-2
-pillow>=10.3.0                # image loading
+# HuggingFace
+huggingface_hub
+datasets
 
-# ── Demo app ──────────────────────────────────────────────────
-gradio>=4.36.0
+# Deep learning
+torch
+torchvision
+timm
 
-# ── Evaluation metrics ────────────────────────────────────────
-rouge-score>=0.1.2            # ROUGE-L
-bert-score>=0.3.13            # BERTScore F1
-evaluate>=0.4.2               # HuggingFace evaluate wrapper
-anthropic>=0.28.0             # LLM-as-a-Judge (Claude API)
+# Computer vision (demo script)
+opencv-python
 
-# ── Dataset & notebook ────────────────────────────────────────
-datasets>=2.19.0              # VQA-RAD from HuggingFace Hub
-nltk>=3.8.0                   # WordNet stemmer for ROUGE
+# Evaluation
+scikit-learn
 
-# ── Data & visualisation (notebook only) ─────────────────────
-numpy>=1.26.0
-pandas>=2.2.0
-matplotlib>=3.9.0
-tqdm>=4.66.0
+# ONNX export (optional — Training notebook Step 10)
+onnx
+onnxruntime>
+onnxscript

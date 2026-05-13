@@ -1,1 +1,1 @@
-https://huggingface.co/datasets/flaviagiammarino/vqa-rad
+https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets

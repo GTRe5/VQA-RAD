@@ -1,6 +1,6 @@
 github:
-https://github.com/GTRe5/VQA-RAD
+https://github.com/GTRe5/RadSight
 model:
-https://huggingface.co/Salesforce/blip2-opt-2.7b
+https://huggingface.co/timm/efficientnet_b0.ra_in1k
 demo:
 https://drive.google.com/file/d/1u24ZigZrTW0KGAR74EHSFDREL7oCrotq/view?usp=sharing
