@@ -232,4 +232,4 @@ Core dependencies: `torch`, `torchvision`, `timm`, `datasets`, `huggingface_hub`
 ## License
 
 This project is released under the [MIT License](LICENSE).  
-The HaGRID dataset is subject to its own license — see the [original repository](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets) for details.
+The HaGRID dataset is subject to its own license — see the [original repository](https://github.com/hukenovs/hagrid) for details.
