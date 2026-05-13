@@ -35,8 +35,8 @@ The dataset is served through HuggingFace — no Kaggle account or SberCloud acc
 ## Installation
 
 ```bash
-git clone https://github.com/GTRe5/hagrid-gesture-recognition.git
-cd hagrid-gesture-recognition
+git clone https://github.com/GTRe5/Hagrid-Gesture-Recognition.git
+cd Hagrid-Gesture-Recognition
 
 pip install -r requirements.txt
 ```
@@ -176,7 +176,7 @@ python demo_hagrid.py --width 1280 --height 720
 ## Project Structure
 
 ```
-hagrid-gesture-recognition/
+Hagrid-Gesture-Recognition/
 ├── EDA_HaGRID.ipynb                 # Data exploration notebook
 ├── TRAINING_HaGRID.ipynb            # Model training notebook
 ├── demo_hagrid.py                   # Real-time webcam demo
