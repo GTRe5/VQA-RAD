@@ -1,3 +1,5 @@
+![Banner](./images/logo.jpg)
+
 # HaGRID Hand Gesture Recognition
 
 Real-time hand gesture classification using **EfficientNet-B0** trained on the [HaGRID](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets) dataset.  
