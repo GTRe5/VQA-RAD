@@ -3,4 +3,4 @@ https://github.com/GTRe5/Hagrid-Gesture-Recognition
 model:
 https://huggingface.co/timm/efficientnet_b0.ra_in1k
 demo:
-https://drive.google.com/file/d/1u24ZigZrTW0KGAR74EHSFDREL7oCrotq/view?usp=sharing
+https://drive.google.com/file/d/1bIVQUfHczS4yPjBE-cWd-ZsF_JrU0-K7/view?usp=sharing
