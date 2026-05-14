@@ -1,4 +1,4 @@
-![Banner](./images/logo.jpg)
+![Banner](./assets/logo.jpg)
 
 # HaGRID Hand Gesture Recognition
 
