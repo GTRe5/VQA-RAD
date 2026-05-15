@@ -5,10 +5,11 @@
 Real-time hand gesture classification using **EfficientNet-B0** trained on the [HaGRID](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets) dataset.  
 The dataset is served through HuggingFace — no Kaggle account or SberCloud access required.
 
-[![Python 3.12](https://img.shields.io/badge/python-3.12.3-blue.svg)](https://www.python.org/)
-[![timm](https://img.shields.io/badge/timm-EfficientNet-yellow)](https://github.com/huggingface/pytorch-image-models)
-[![Dataset](https://img.shields.io/badge/dataset-HaGRID-green)](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets)
-[![Model](https://img.shields.io/badge/model-EfficientNet--B0-orange)](https://huggingface.co/timm/efficientnet_b0.ra_in1k)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12.3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![timm](https://img.shields.io/badge/timm-EfficientNet-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
+[![Dataset](https://img.shields.io/badge/Dataset-HaGRID-22C55E?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/GestureDetectionConnoisseurs/hagrid_subsets)
+[![Model](https://img.shields.io/badge/Model-EfficientNet--B0-F97316?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/timm/efficientnet_b0.ra_in1k)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 ---
 
